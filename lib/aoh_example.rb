@@ -12,7 +12,6 @@ def assembled_aoh
   inspired = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
   inspired
   
-  
 end
 
 def literal_aoh
